@@ -228,8 +228,8 @@
 				C3C2ABB219684CCB003713F5 /* OtherBases */,
 			);
 			name = AUPublic;
-			path = ../../../../../Library/Developer/CoreAudio/AUPublic;
-			sourceTree = "<group>";
+			path = /Library/Developer/CoreAudio/AUPublic;
+			sourceTree = "<absolute>";
 		};
 		C3A3047D1968420100409544 /* AUBase */ = {
 			isa = PBXGroup;
@@ -294,8 +294,8 @@
 				C3A304CB1968420100409544 /* CAXException.h */,
 			);
 			name = PublicUtility;
-			path = ../../../../../Library/Developer/CoreAudio/PublicUtility;
-			sourceTree = "<group>";
+			path = /Library/Developer/CoreAudio/PublicUtility;
+			sourceTree = "<absolute>";
 		};
 		C3C2ABB219684CCB003713F5 /* OtherBases */ = {
 			isa = PBXGroup;
